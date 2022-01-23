@@ -1,5 +1,9 @@
-Hack-a-thon Project for Carleton Dev Day 
+Hack-a-thon Project for Carleton Dev Day Jan/22/22
 
-Written in: Python 
-Frontend: Flask 
-Backend: SQLite 
+Goal: Learn Flask, integrate Flask into a full stack project with Python and SQLite
+
+Written in: Python
+Frontend: Flask
+Backend: SQLite
+
+Flask learning references include tutorials by Corey Schafer: https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
